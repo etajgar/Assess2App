@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assess2", "Assess2\Assess2.pyproj", "{F7F8F2D2-461D-4049-9290-F79A52D71D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F8F2D2-461D-4049-9290-F79A52D71D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F8F2D2-461D-4049-9290-F79A52D71D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0E93BE-A8E4-4CA2-90E9-6784CB7EA4F1}
+	EndGlobalSection
+EndGlobal
