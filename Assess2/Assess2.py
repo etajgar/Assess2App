@@ -17,7 +17,7 @@ def showBtn():
 
     try:
         # Execute a SELECT query
-        cursor.execute(sqlComm)  # Replace YourTableName with your table name
+        cursor.execute(sqlComm) 
 
         # Fetch all rows from the result set
         rows = cursor.fetchall()
